@@ -1,0 +1,51 @@
+body{
+
+    background-image: url(./images/Living\ room.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+nav a{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px;
+    color: rgb(32, 31, 31);
+    float:right ;
+    font-weight: bold;
+}
+
+nav a:hover{
+
+    background-color: rgb(239, 237, 237);
+    border-radius: 50px;
+    
+}
+
+h1{
+    padding-top: 200px;
+    text-align:center;
+    font-size: xx-large;
+}
+
+h5{
+    
+    text-align:center;
+    font-size: small;
+    
+}
+
+p{
+    font-size: xx-large;margin: 10px;
+    margin-right: 10px;
+}
+
+div a{
+    text-decoration: none;
+    color:white ;
+    padding: 10px;
+    border-radius: 50px;
+    background-color: rgb(4, 11, 11);
+}
